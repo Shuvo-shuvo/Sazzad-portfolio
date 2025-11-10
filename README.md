@@ -4,7 +4,7 @@ This repository contains a responsive personal portfolio website built with plai
 
 The site uses dynamic section loading (fetching partial HTML files from `sections/`) and supports a light/dark theme toggle.
 
-Live demo: (deploy to GitHub Pages or open locally)
+Live demo: https://shuvo-shuvo.github.io/sazzad-portfolio/
 
 ## Features
 
